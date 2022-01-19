@@ -1,3 +1,3 @@
 ## Hey there its me pickle
 
-Check out [my website](https://github.com/IambotPickle/pickle.lol/edit/main/README.md).
+Check out [my website](https://iambotpickle.github.io/pickle.lol/).
